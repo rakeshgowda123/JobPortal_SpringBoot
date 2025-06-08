@@ -1,0 +1,5 @@
+target/*.original
+target/surefire-reports
+*.iml
+.idea
+*.log
